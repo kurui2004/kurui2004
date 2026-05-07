@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Ian%20GitHub&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Kurui's%20GitHub&fontSize=40&fontColor=ffffff)
 
 # Hi there , I'm Ian
 
