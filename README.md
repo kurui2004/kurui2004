@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there , I'm Ian
 
-<!--
-**kurui2004/kurui2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student at Multimedia University of Kenya  
+🌱 Currently learning Full Stack Development  
+🔐 Passionate about Cybersecurity  
+⚡ Building projects and improving my development skills every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages & Technologies
+
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)]
+
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://www.freecodecamp.org/certification/fcc30ebd570-9993-45ce-b553-374165596932/python-v9)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)]
+
+[![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)]([YOUR_HTML_CERTIFICATE_LINK](https://www.freecodecamp.org/certification/fcc30ebd570-9993-45ce-b553-374165596932/responsive-web-design-v9))
+
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)]([YOUR_CSS_CERTIFICATE_LINK](https://www.freecodecamp.org/certification/fcc30ebd570-9993-45ce-b553-374165596932/responsive-web-design-v9))
+
+---
+
+## 📚 About Me
+
+- 🎓 First-year Software Engineering student
+- 💡 Interested in Full Stack Development & Cybersecurity
+- 🛠️ Building real-world projects to sharpen my skills
+- 🎮 Gamer & tech enthusiast
+- 📈 Always learning new technologies and improving daily
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurui2004&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurui2004&layout=compact&theme=tokyonight)
