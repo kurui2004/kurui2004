@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Ian%20GitHub&fontSize=40&fontColor=ffffff)
+
 # Hi there , I'm Ian
 
 💻 Software Engineering Student at Multimedia University of Kenya  
@@ -6,6 +8,9 @@
 ⚡ Building projects and improving my development skills every day
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning&center=true&width=500&height=50">
+</p>
 
 ## 🚀 Languages & Technologies
 
@@ -36,3 +41,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurui2004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurui2004&layout=compact&theme=tokyonight)
+
